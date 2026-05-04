@@ -1,0 +1,16 @@
+ history
+    1  mkdir Exam
+    2  cd Exam
+    3  git clone git@github.com:londeka-z/student_sub_system.git
+    4  cd student_sub_system
+    5  ls
+    6  touch index.html
+    7  touch about.html
+    8  touch history.txt
+    9  ls
+   10  git init
+   11  git add .
+   12  git status
+   13  git commit -m Added three new files
+   14  history
+
